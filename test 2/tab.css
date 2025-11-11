@@ -1,0 +1,17 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th,tr{
+    text-align: center;
+}
+table{
+    width: 1250;
+    height: 250;
+}
+.c1{
+    background-color:grey;
+}
+.c2,.c3,.c4{
+    background-color:darkgray;
+}
